@@ -19,7 +19,7 @@
 	- [Learning rate & Batch Size](https://www.loom.com/share/183248cfec9f46a5bc0ae7ec410aa291)
 	- [Exponentially Weighted Average](https://www.loom.com/share/b84b1452ab5d4193b63481910d9323b1)
 	- [Adam, Momentum, RMSProp, Learning Rate Decay](https://www.loom.com/share/101a5956c6f04d31843f37c4be089978)
-- Lesson #02 Better Generalization vs Better Learning
+- Lesson #03 Better Generalization vs Better Learning
 	- Better Generalization
 		- [Better Deep Learning - Outline](https://www.loom.com/share/33ceae6510ca4321b95425efc7c7828e)
 		- [Spliting Data](https://www.loom.com/share/436be4492b0549baba57c52d40941cc3)
