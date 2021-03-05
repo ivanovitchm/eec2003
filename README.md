@@ -33,3 +33,4 @@
 		- [Data scaling](https://www.loom.com/share/7008b640440d412498578e27b8557471)
 		- [Vanishing/Exploding Gradient](https://www.loom.com/share/fb427d71b7a74e2dab226445941d2d41)
 		- [Fix Vanishing Gradient with Relu](https://www.loom.com/share/0cdfb9ba531540fca075444f7d732fc6)
+		- [Fix Exploding Gradient with Gradient Clipping](https://www.loom.com/share/2b560922401442b7b078faf06801a3ad)
