@@ -34,3 +34,12 @@
 		- [Vanishing/Exploding Gradient](https://www.loom.com/share/fb427d71b7a74e2dab226445941d2d41)
 		- [Fix Vanishing Gradient with Relu](https://www.loom.com/share/0cdfb9ba531540fca075444f7d732fc6)
 		- [Fix Exploding Gradient with Gradient Clipping](https://www.loom.com/share/2b560922401442b7b078faf06801a3ad)
+- Lesson #04 Hyperparameter Tuning & Batch Normalization
+	- [Outline](https://www.loom.com/share/0c5ccb3514ae4dc8b674ea5789f26645)
+	- [Hyperparameter Tuning Fundamentals](https://www.loom.com/share/19920a5abadd4ce0bea8eadc26c778ee)
+	- [Keras Tuner and Weights and Biases](https://www.loom.com/share/f27dcb1d5779432a906e19db7a834c65)
+	- [Wandb - Part #01](https://www.loom.com/share/fed7cfc2a5414ad58637244f84add9b8)
+	- [Wandb - Part #02](https://www.loom.com/share/16255ea534b34691a90801fe1d34ce6d)
+	- [Batch Normalization Fundamentals](https://www.loom.com/share/adf8e445186d44caa79a83d0f3af97d8)
+	- [Batch Normalization Math Details](https://www.loom.com/share/b2dad925916e4ae58d6a3cf3223be945)
+	- [Batch Normalization Case Study](https://www.loom.com/share/d8113419cd56463eab0094df1a687cf0)
