@@ -54,10 +54,12 @@
 - Lesson #06 Convolutional Neural Networks (CNN) Architecture I
 	- [Outline](https://www.loom.com/share/c218c4ac06684b13aa07049b39f4b4df)
 	- [Typical CNN Architecture](https://www.loom.com/share/9aaf99dc6e75403b96e17b08da935313)
-	- [Best practices when building your Town CNN](https://www.loom.com/share/f1016707d00f4fd99c9dfb6295072554)
+	- [Best practices when building your own CNN](https://www.loom.com/share/f1016707d00f4fd99c9dfb6295072554)
 	- [LeNet-5](https://www.loom.com/share/ddaf75c76e6b4ab39b3741f43a655764)
 	- [Training LeNet-5 using MNIST dataset](https://www.loom.com/share/59ca5879a00242b4814f822fa3c6a430)
 	- [ImageNet & ILSVRC](https://www.loom.com/share/c4f94499da3a4769bd751c2970c3d6ab)
 	- [AlexNet](https://www.loom.com/share/bc8475491fcf49d1b17305a0441843f7)
 	- [Dogs vs Cats Challenge + HDF5](https://www.loom.com/share/ba0bfb5f5f6044fead11ebebee3eedd3)
+	- [CNN Architectures - Hands on Part #01](https://www.loom.com/share/068d3145cd9c4b0291e5d2a83a2c494b)
+	- [CNN Architectures Hands on Part #02](https://www.loom.com/share/b847f834f62c47faaaa936137d163e08)
 	
