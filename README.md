@@ -48,7 +48,7 @@
 	- [CNN Introduction & Motivation](https://www.loom.com/share/bb17b639264c4b079b375b63c4c16085)
 	- [Convolutional Layer](https://www.loom.com/share/dd6b3d3ae5b3430ead7ed09174dd1b4c)
 	- [Case Study of Convolutional Layer](https://www.loom.com/share/48b2566fae7b4c9794526e41ffbd624c)
-	- [Pooing Layer](https://www.loom.com/share/055e32dcd2564b13890ce19d72daba32)
+	- [Pooling Layer](https://www.loom.com/share/055e32dcd2564b13890ce19d72daba32)
 	- [Fully Connected Layer](https://www.loom.com/share/7912c7d6e1a54a97b39c15efb5a9fc88)
 	- [Case Study - Signs Dataset](https://www.loom.com/share/2ea8f406635b489faa9f7f5ec675de73) 
 - Lesson #06 Convolutional Neural Networks (CNN) Architecture I
@@ -61,5 +61,13 @@
 	- [AlexNet](https://www.loom.com/share/bc8475491fcf49d1b17305a0441843f7)
 	- [Dogs vs Cats Challenge + HDF5](https://www.loom.com/share/ba0bfb5f5f6044fead11ebebee3eedd3)
 	- [CNN Architectures - Hands on Part #01](https://www.loom.com/share/068d3145cd9c4b0291e5d2a83a2c494b)
-	- [CNN Architectures Hands on Part #02](https://www.loom.com/share/b847f834f62c47faaaa936137d163e08)
+	- [CNN Architectures - Hands on Part #02](https://www.loom.com/share/b847f834f62c47faaaa936137d163e08)
+- Lesson #06 Convolutional Neural Networks (CNN) Architecture II
+	- [Outline](https://www.loom.com/share/12dabb12f4df48f29802976dedf28a93)
+	- [VGG](https://www.loom.com/share/54f9a9a0c7164752a0daa2e11ab94304)
+	- [VGG case study using CIFAR-10](https://www.loom.com/share/f8543faa8a9544f690e8d83493d053ff)
+	- [How to use 1x1 convolutions](https://www.loom.com/share/4fa05c8a49814494a658e9ad337a8ef6)
+	- [GoogLeNet](https://www.loom.com/share/3f6e276e64b845f390174e86b45a9e5f)
+	- [MiniGoogleLeNet using CIFAR-10](https://www.loom.com/share/62f243ae46ec4796bb767a7e6cbd78c9)
+	- [DeeperGoogLeNet and Tiny ImageNet Challenge](https://www.loom.com/share/af4eee545ac24cc59dae0482443efa67)
 	
