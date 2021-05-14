@@ -62,7 +62,7 @@
 	- [Dogs vs Cats Challenge + HDF5](https://www.loom.com/share/ba0bfb5f5f6044fead11ebebee3eedd3)
 	- [CNN Architectures - Hands on Part #01](https://www.loom.com/share/068d3145cd9c4b0291e5d2a83a2c494b)
 	- [CNN Architectures - Hands on Part #02](https://www.loom.com/share/b847f834f62c47faaaa936137d163e08)
-- Lesson #06 Convolutional Neural Networks (CNN) Architecture II
+- Lesson #07 Convolutional Neural Networks (CNN) Architecture II
 	- [Outline](https://www.loom.com/share/12dabb12f4df48f29802976dedf28a93)
 	- [VGG](https://www.loom.com/share/54f9a9a0c7164752a0daa2e11ab94304)
 	- [VGG case study using CIFAR-10](https://www.loom.com/share/f8543faa8a9544f690e8d83493d053ff)
