@@ -71,4 +71,11 @@
 	- [MiniGoogleLeNet using CIFAR-10](https://www.loom.com/share/62f243ae46ec4796bb767a7e6cbd78c9)
 	- [DeeperGoogLeNet and Tiny ImageNet Challenge](https://www.loom.com/share/af4eee545ac24cc59dae0482443efa67)
 - Lesson #08 ResNet
+- Lesson #09 Transfer Learning
+	- [Outline](https://www.loom.com/share/a748317324724d029678eb33c877b82f)
+	- [Feature Extractors](https://www.loom.com/share/e19e7431012c42aaa3957ebf0e756e8b)
+	- [Feature Extractors - Case Study](https://www.loom.com/share/7492b62692b24617a3c87f3635af8942)
+	- [Fine-Tuning](https://www.loom.com/share/eaf9c878e7474a1b864bd5e967ae2b05)
+	- [Fine-Tuning Case Study I - Flowers 17](https://www.loom.com/share/57830f6349e84360a71ceac147e0ac41)
+	- [Fine-Tuning Case Study II - Cats and Dogs](https://www.loom.com/share/9253be684b06472ea9705eb1cf7cf321)
 	
